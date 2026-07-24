@@ -1,4 +1,4 @@
-# Used Car Price Prediction — EDA, Cleaning & Feature Engineering
+# Used Car Price Prediction - EDA, Cleaning & Feature Engineering
 
 ## 📁 Dataset Overview
 
